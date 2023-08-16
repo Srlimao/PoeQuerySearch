@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "POE Query Search",
+  "version": "1.0",
+  "description": "Get the query used in the trade search so it can be used and saved for any league",
+  "permissions": ["activeTab", "clipboardWrite"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icon-16.png"
+  },
+  "action": {
+    "default_icon": {              
+      "16": "icon-16.png"
+    },
+    "default_title": "Click Me",
+    "default_popup": "popup.html"
+    }
+
+}
