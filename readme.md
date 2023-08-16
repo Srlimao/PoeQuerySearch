@@ -18,32 +18,32 @@ Get the query used in the trade search so it can be used and saved for any leagu
 3. Enable "Developer mode" using the toggle switch.
 4. Click on the "Load unpacked" button and select the extension folder.
 
+OR Install from chrome extension store when available.
+
 ## Usage
 
-1. Open Google Chrome and navigate to a webpage where the extension is intended to work (e.g., https://www.pathofexile.com).
-2. Click on the extension icon in the toolbar.
-3. Follow the instructions provided in the popup to generate and display the URL.
-4. Interact with the popup to copy the URL to the clipboard or perform other actions.
+1. Open Google Chrome and navigate to a webpage where the extension is intended to work (e.g., https://www.pathofexile.com/trade).
+2. Setup your filters and click search.
+3. Click on the extension icon in the toolbar.
+4. Interact with the popup to copy the URL to the clipboard.
 
 ## Configuration
 
-If your extension has configurable options, explain how to configure them in this section.
+No configuration needed
 
 ## Contributing
 
-Explain how others can contribute to your project. Include guidelines for pull requests, issue reporting, and code style.
+ME
 
 ## License
-
-Specify the license under which your extension is released. For example:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
-Mention any credits or acknowledgments for third-party libraries, resources, or inspirations.
+My friend Stiches came up with a tech to use our personal staches in POE to share items using the Trade website, but for that we needed a faster way to get the query used in the Trade website
 
 ## Contact
 
-Provide your contact information (e.g., email) for users or contributors to reach out to you.
+ME
 
